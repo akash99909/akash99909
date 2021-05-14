@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash99909" alt="akash99909" /></a> </p>
 
-- 🔭 I’m currently working on [Cozystay](https://github.com/akash99909/cozystay)
+- 🔭 I’m currently working on [HMS](https://github.com/akash99909/Django---Hotel-Management-System)
 
 - 👨‍💻 All of my projects are available at [https://akash99909.github.io/akashmaurya.github.io/](https://akash99909.github.io/akashmaurya.github.io/)
 
