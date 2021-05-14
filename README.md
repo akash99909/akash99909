@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://codepen.io/akash99909" target="blank"><img align="center" src="https://github.com/akash99909/akash99909/blob/main/download1.png?raw=true" alt="akash99909" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akash-maurya-a10431175" target="blank"><img align="center" src="https://github.com/akash99909/akash99909/blob/main/download2.png?raw=true" alt="akash-maurya-a10431175" height="30" width="40" /></a>
-<a href="https://instagram.com/_akash.maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="_akash.maurya" height="30" width="40" /></a>
+<a href="https://instagram.com/_akash.maurya" target="blank"><img align="center" src="https://github.com/akash99909/akash99909/blob/main/download3.jpg?raw=true" alt="_akash.maurya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
