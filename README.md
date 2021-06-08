@@ -7,8 +7,8 @@
 
 - 🔭 I’m currently working on [HMS](https://github.com/akash99909/Django---Hotel-Management-System)
 
-- 👨‍💻 All of my projects are available at [https://akash99909.github.io/akashmaurya.github.io/](https://akash99909.github.io/akashmaurya.github.io/)
-
+- 👨‍💻 All of my projects are available at [https://akash99909.github.io/Portfolio-Akash/index.html] 
+)
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **akash999maurya@gmail.com**
